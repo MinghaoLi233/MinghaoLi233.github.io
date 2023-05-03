@@ -2,32 +2,30 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://MinghaoLi233.github.io/posts/first_post/</loc><lastmod>2023-05-03T15:42:36&#43;08:00</lastmod></url><url>
-            <loc>https://MinghaoLi233.github.io/posts/</loc><lastmod>2023-05-03T15:42:36&#43;08:00</lastmod></url><url>
-            <loc>https://MinghaoLi233.github.io/</loc><lastmod>2023-05-03T15:42:36&#43;08:00</lastmod><xhtml:link
+            <loc>http://example.org/en/categories/</loc><xhtml:link
                         rel="alternate"
-                        hreflang="zh"
-                        href="https://MinghaoLi233.github.io/zh/"
+                        hreflang="zh-cn"
+                        href="http://example.org/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://MinghaoLi233.github.io/"
+                    href="http://example.org/en/categories/"
                     /></url><url>
-            <loc>https://MinghaoLi233.github.io/categories/</loc><xhtml:link
+            <loc>http://example.org/en/</loc><xhtml:link
                         rel="alternate"
-                        hreflang="zh"
-                        href="https://MinghaoLi233.github.io/zh/categories/"
+                        hreflang="zh-cn"
+                        href="http://example.org/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://MinghaoLi233.github.io/categories/"
+                    href="http://example.org/en/"
                     /></url><url>
-            <loc>https://MinghaoLi233.github.io/tags/</loc><xhtml:link
+            <loc>http://example.org/en/tags/</loc><xhtml:link
                         rel="alternate"
-                        hreflang="zh"
-                        href="https://MinghaoLi233.github.io/zh/tags/"
+                        hreflang="zh-cn"
+                        href="http://example.org/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://MinghaoLi233.github.io/tags/"
+                    href="http://example.org/en/tags/"
                     /></url></urlset>

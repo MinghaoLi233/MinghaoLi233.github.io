@@ -1,17 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
-        <link>https://MinghaoLi233.github.io/</link>
+        <title>Milo&#39;s site</title>
+        <link>http://example.org/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 03 May 2023 15:42:36 &#43;0800</lastBuildDate>
-            <atom:link href="https://MinghaoLi233.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>First_post</title>
-    <link>https://MinghaoLi233.github.io/posts/first_post/</link>
-    <pubDate>Wed, 03 May 2023 15:42:36 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://MinghaoLi233.github.io/posts/first_post/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>MinghaoLi233@outlook.com (Minghao Li)</managingEditor>
+            <webMaster>MinghaoLi233@outlook.com (Minghao Li)</webMaster>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
 </rss>
