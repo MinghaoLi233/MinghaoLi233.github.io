@@ -1,10 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Milo&#39;s site</title>
-        <link>uildDrafts/</link>
+        <link>https://MinghaoLi233.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>MinghaoLi233@outlook.com (Minghao Li)</managingEditor>
-            <webMaster>MinghaoLi233@outlook.com (Minghao Li)</webMaster>
-            <atom:link href="uildDrafts/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>MinghaoLi233@outlook.com (MinghaoLi)</managingEditor>
+            <webMaster>MinghaoLi233@outlook.com (MinghaoLi)</webMaster><lastBuildDate>Thu, 04 May 2023 10:52:47 &#43;0800</lastBuildDate>
+            <atom:link href="https://MinghaoLi233.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Hello</title>
+    <link>https://MinghaoLi233.github.io/hello/</link>
+    <pubDate>Thu, 04 May 2023 10:52:47 &#43;0800</pubDate>
+    <author>MinghaoLi</author>
+    <guid>https://MinghaoLi233.github.io/hello/</guid>
+    <description><![CDATA[Hello！ test $$ E=mc^2 $$]]></description>
+</item>
+</channel>
 </rss>
